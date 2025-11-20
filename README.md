@@ -1,6 +1,4 @@
 # Sorting-Algorithm-Visualizer
-Sorting Algorithm Visualizer
-
 An interactive Python tool to visualize popular sorting algorithms in real-time. Learn and understand sorting algorithm behavior and efficiency through animated bars, color-coded states, and adjustable settings.
 
 Features
