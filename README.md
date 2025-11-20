@@ -5,24 +5,14 @@ An interactive Python tool to visualize popular sorting algorithms in real-time.
 
 Features
 
-Visualizes multiple sorting algorithms:
-
-Bubble Sort
-
-Merge Sort
-
-Quick Sort
-
-Insertion Sort
-
-Selection Sort
-
-Heap Sort
-
-Real-time bar animations representing array elements.
-
-Color-coded states for comparisons, swaps, and sorted elements.
-
-Adjustable array size and animation speed.
-
-User-friendly Tkinter GUI for intuitive interaction.
+1. Visualizes multiple sorting algorithms:
+    1. Bubble Sort
+    2. Merge Sort
+    3. Quick Sort
+    4. Insertion Sort
+    5. Selection Sort
+    6. Heap Sort
+2. Real-time bar animations representing array elements.
+3. Color-coded states for comparisons, swaps, and sorted elements.
+4. Adjustable array size and animation speed.
+5. User-friendly Tkinter GUI for intuitive interaction.
